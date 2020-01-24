@@ -29,16 +29,17 @@
   },
   "interests": [
     {
-      "name": "Software Engineering",
-      
+      "name": "software engineering",
+       "keywords": [
+      ]
     },
     {
-      "name": "Game Development",
+      "name": "game development",
       "keywords": [
       ]
     },
     {
-      "name": "Cybersecurity",
+      "name": "cybersecurity",
       "keywords": [
       ]
     }
