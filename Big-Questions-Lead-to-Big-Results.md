@@ -5,7 +5,7 @@ title: Big Questions Lead to Big Results
 date: 2020-01-30
 labels:
   - Software Engineering
-  - Smart Question
+  - Smart Questions
 summary: My reflection on why it is important to ask smart question.
 ---
 <p align='center'>  
