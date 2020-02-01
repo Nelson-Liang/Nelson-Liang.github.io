@@ -1,13 +1,14 @@
 ---
 layout: essay
 type: essay
-title:Programming the Spark
+title: Programming the Spark
 date: 2020-01-31
 labels:
   - Software Engineering
   - Learning
-summary: Interest in software engineering.
+summary: My interest in software engineering.
 ---
+
 <p align='center'>  
 <img src='https://yn0np1auhf-flywheel.netdna-ssl.com/wp-content/uploads/2017/11/software_engineering.jpg' width='500'/>
 </p>
