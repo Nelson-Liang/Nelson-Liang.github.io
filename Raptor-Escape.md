@@ -1,19 +1,23 @@
 ---
 layout: project
 type: project
-image: images/LDgreen.PNG
-title: Project 2
+image: images/Project2.PNG
+title: Raptor Escape
 date: 2020-01-31
 labels:
   - Software Engineering
   - Coding
   - Time
-summary: Project created in my ICS 111.
+summary: Game created in my ICS 111.
 ---
 
 <p align='center'>  
-<img src="https://Nelson-Liang.github.io/images/Liondance.PNG" 
+<a href="https://www.youtube.com/watch?v=xp0vIKQvfso&feature=youtu.be
+" target="https://www.youtube.com/watch?v=xp0vIKQvfso&feature=youtu.be"><img src="https://Nelson-Liang.github.io/images/Project2.PNG" 
 width="700" height="300" border="10" /></a>
+</p>
+<p align='center'>  
+Clink on image to preview
 </p>
 
  For this project, the prompt was to create several hostile AIs that will chase the player around a constructed room. Both the player and AIs can’t pass through walls and the player only got one life so no error can be made, but players have the ability to teleport to a random location. After teleporting, the portal is left there until the player teleports again. Portal can also be accessible by AIs if they pass through it. The objective of this game is to survive until the timer runs out. I choose to share this project because I consider this to be my first best coding achievement. It was quite challenging, but I have enjoyed the development of this game. For the gameplay, I did find some loopholes that a player can take advantage of and make the game easily winnable, so I added a hostile that can go through walls to keep the players on their toes. 
