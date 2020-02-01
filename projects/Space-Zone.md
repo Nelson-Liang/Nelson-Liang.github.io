@@ -10,7 +10,9 @@ labels:
 summary: Reflection on JavaScript.
 ---
 <p align='center'>  
-https://www.youtube.com/watch?v=uXc4GobxAhs
+<a href="https://www.youtube.com/watch?v=uXc4GobxAhs
+" target="_blank"><img src="http://https://nelson-liang.github.io/image/Project3.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 </p>
 
 This project is a video game that was created by my team in ICS 111. I choose to share this project because I was proud of the final result. The game achieved everything we wanted while presented everything we learned. The hectic gameplay summarises the amount of coding needed to bring the dream to life. 
