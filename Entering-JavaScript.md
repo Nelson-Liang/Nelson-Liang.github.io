@@ -19,5 +19,6 @@ Javascript is a brand new stage for me as I never attempt to experience it befor
 <p align='center'>  
 <img src='https://mk0at44uvaxh7f73.kinstacdn.com/wp-content/uploads/2018/09/9202.jpg' width='500'/>
 </p>
+
 ## What is Athletic software engineering?
 Athletic software engineering is exercises that place a programmer under stress to see how they perform. This is great in training the programmer’s ability to perform a task in a certain amount of time given. Workout of the Day or simply WOD is a daily exercise to place students under these types of stress. I personally don’t like these exercises because it is proven to be more stressful than enjoyable. I am not a quick thinker when it comes to problem-solving and I am not very knowledgeable in the language which is important because time doesn't stop for you so every move counts. I can’t say that WOD is not helpful because the task does test your knowledge and condition students for a career in software engineering. This style of learning can be intense, but it exercises your mind to think faster and show where you stand as a programmer.
