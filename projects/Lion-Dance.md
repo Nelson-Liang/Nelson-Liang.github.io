@@ -32,4 +32,6 @@ A performace preview where my group competed. I am playing the upper half of the
 " target="https://www.youtube.com/watch?v=9ctSs7sglX8"><img src="https://Nelson-Liang.github.io/images/LDperform.PNG" 
 width="500" height="200" border="10" /></a>
 </p>
-
+<p align='center'> 
+Click on image to watch
+  </p>
