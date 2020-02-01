@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://Nelson-Liang.github.io/images/Project3.PNG
+image: images/Project3.PNG
 title: Space Zone Game
 date: 2020-01-31
 labels:
