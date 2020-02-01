@@ -7,11 +7,10 @@ labels:
   - Software Engineering
   - Learning
   - JavaScript
-summary: Reflection on JavaScript.
 ---
 <p align='center'>  
 <a href="https://www.youtube.com/watch?v=uXc4GobxAhs
-" target="https://www.youtube.com/watch?v=uXc4GobxAhs"><img src="http://https://Nelson-Liang.github.io/images/Project3.PNG" 
+" target="https://www.youtube.com/watch?v=uXc4GobxAhs"><img src="https://Nelson-Liang.github.io/images/Project3.PNG" 
 width="240" height="180" border="10" /></a>
 </p>
 
