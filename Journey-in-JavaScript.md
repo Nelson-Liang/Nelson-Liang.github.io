@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: New Stuffs
+title: Journey-in-JavaScript
 date: 2020-01-31
 labels:
   - Software Engineering
