@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: Big Questions Lead to Big Results
-date: 2020-01-30
+title: New Stuffs
+date: 2020-01-31
 labels:
   - Software Engineering
   - Learning
