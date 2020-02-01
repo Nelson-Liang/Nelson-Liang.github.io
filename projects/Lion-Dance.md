@@ -8,7 +8,7 @@ labels:
   - Lion Dance
   - Leader
   - Teamwork
-summary: I discuess a hobby that I have done for years and what I learn from it.
+summary: I discuss a hobby that I have done for years and what I learn from it.
 ---
 
 <p align='center'>  
