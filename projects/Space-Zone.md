@@ -17,7 +17,7 @@ summary: Final project for my ICS 111 course.
 width="700" height="300" border="10" /></a>
 </p>
 <p align='center'>  
-Link on Image to Preview
+Clink on image to preview
 </p>
 
 ## Intro
