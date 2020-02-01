@@ -5,8 +5,9 @@ title: Space Zone Game
 date: 2020-01-31
 labels:
   - Software Engineering
-  - Learning
-  - JavaScript
+  - Java
+  - Game
+  - Teamwork
 ---
 <p align='center'>  
 <a href="https://www.youtube.com/watch?v=uXc4GobxAhs
