@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Coding
   - Time
-summary: Game created in my ICS 111.
+summary: Game created in my ICS 111 course.
 ---
 
 <p align='center'>  
