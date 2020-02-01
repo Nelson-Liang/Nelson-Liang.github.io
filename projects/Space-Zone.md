@@ -11,7 +11,7 @@ summary: Reflection on JavaScript.
 ---
 <p align='center'>  
 <a href="https://www.youtube.com/watch?v=uXc4GobxAhs
-" target="_blank"><img src="http://https://nelson-liang.github.io/image/Project3.jpg" 
+" target="https://www.youtube.com/watch?v=uXc4GobxAhs"><img src="http://https://nelson-liang.github.io/image/Project3.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 </p>
 
