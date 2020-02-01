@@ -1,32 +1,30 @@
 ---
 layout: project
 type: project
-image: images/Project3.PNG
+image: images/LDgreen.PNG
 title: Lion Dance
 date: 2020-01-31
 labels:
-  - Software Engineering
-  - Java
-  - Game
+  - Lion Dance
+  - Leader
   - Teamwork
-summary: Final project for my ICS 111 course.
+summary: I discuess a hobby that I have done for years and what I learn from it.
 ---
 
 <p align='center'>  
 <img src="https://Nelson-Liang.github.io/images/Liondance.PNG" 
 width="700" height="300" border="10" /></a>
 </p>
-Lion dance has been a big part of my life for a long time. I started this cultural art around the second grade under Hawaii Lion Dance Association or HLDA and love it ever since. This form of traditional Chinese dance requires two performers to mimic the movement of an animal in a costume, accompanied by instruments. The lion dance is usually performed during Chinese New Year and special occasions such as business opening, birthdays, weddings, etc. The dance is important in Chinese culture because it said that the lion brings good luck and fortune. Lion dancing and software engineering are quite similar to each other. Both arts requires knowledge and experience as well as practices in order to create a successful performance. Lion dance has guidelines to follow much like a programmer coding in a certain language; if you don’t follow them, you will be met with failure and bring shame upon your group.
 
-
+Lion dance has been a big part of my life for a long time. I started this cultural art around the second grade under Hawaii Lion Dance Association or HLDA and love it ever since. This form of traditional Chinese dance requires two performers to mimic the movement of an animal in a costume, accompanied by instruments. The lion dance is usually performed during Chinese New Year and special occasions such as business opening, birthdays, weddings, etc. The dance is important in Chinese culture because it said that the lion brings good luck and fortune. The biggest mistake that everyone tend to make is calling it dragon dance which is completely different.Lion dancing and software engineering are quite similar to each other. Both arts requires knowledge and experience as well as practices to create a successful performance. Like coding, lion dance takes years to perfect, but there is always much to learn after meeting success.
 <p align='center'>  
 <img src="https://Nelson-Liang.github.io/images/LDgroup.PNG" 
 width="400" height="300" border="10" /></a>
 </p>
 
-People can learn a lot from being a student, but they learn even more being a teacher. Over the years, I have gradually made my way to becoming one of the leaders in the association. I currently help lead classes and teach our newer members the ways of the art. I learn that being a leader comes with its challenges. Teaching taught me that you need to be patient and display the capabilities of being a leader. I need to provide direction and purpose and help anyone that struggles to understand. Communication is also present in Lion Dance. We need to communicate with each other to make a decision like any other group. When creating a routine, performers and instrument players need to communicate and work together to make an understanding shows. Every beat signifies a certain move that the lion must take to stay on time. These are the types of performance that are going to push you to pass your physical and mental barriers. Hard work brings people together and I made a lot of good friends not only in the club, but also the community of people that share the same passion. These are the skills that I learn from becoming a lion dancer.
+People can learn a lot from being a student, but they learn even more being a teacher. When I first join the association, I was taught discipline, respect, and perseverance. Over the years, I hone my skills and knowledge and I gradually made my way to becoming one of the leaders in the association. I currently help lead classes and teach our newer members the ways of the art. I learn that being a leader comes with its challenges. Teaching taught me that you need to be patient and display the capabilities of being a leader. I need to provide direction and purpose while helping anyone that struggles to understand. Communication is also presented in Lion Dance. We, leaders, need to effectively communicate with each other to make the appropriate decision on how to proceed with the performances. When creating a routine, performers and instrument players need to communicate and work together to make an understanding shows. Every beat signifies a certain move that the lion must take to stay on time. These are the types of performance that are going to push you to pass your physical and mental barriers. Hard work brings people together and I made a lot of good friends not only in the association, but also the community of people that share the same passion. These are the skills that I learn from becoming a lion dancer.
 
-A performace preview where my group competed. I am playing the upper half of the lion:
+A performance preview where my group competed in a national competition. I am playing the upper half of the lion:
 <p align='center'>  
 <a href="https://www.youtube.com/watch?v=9ctSs7sglX8
 " target="https://www.youtube.com/watch?v=9ctSs7sglX8"><img src="https://Nelson-Liang.github.io/images/LDperform.PNG" 
