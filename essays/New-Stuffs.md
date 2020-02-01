@@ -5,7 +5,8 @@ title: Big Questions Lead to Big Results
 date: 2020-01-30
 labels:
   - Software Engineering
-  - Smart Questions
+  - Learning
+  - JavaScript
 summary: Reflection on JavaScript.
 ---
 <p align='center'>  
