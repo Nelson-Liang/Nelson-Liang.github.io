@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title:New Stuff
-date: 2020-01-23
+date: 2020-01-31
 labels:
   - Software Engineering
   - Learning
