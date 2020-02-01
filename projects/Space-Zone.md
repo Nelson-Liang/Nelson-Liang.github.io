@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image:https://Nelson-Liang.github.io/images/Project3.PNG
 title: Space Zone Game
 date: 2020-01-31
 labels:
@@ -8,6 +9,7 @@ labels:
   - Java
   - Game
   - Teamwork
+summary: Final project for my ICS 111 course.
 ---
 <p align='center'>  
 <a href="https://www.youtube.com/watch?v=uXc4GobxAhs
@@ -18,7 +20,6 @@ width="700" height="300" border="10" /></a>
 Link on Image to Preview
 </p>
 
-<img class="ui tiny right spaced image" src="https://Nelson-Liang.github.io/images/Project3.PNG">
 ## Intro
 This project is a video game that was created by my team in ICS 111. I choose to share this project because I was proud of the final result. The game achieved everything we wanted while presented everything we learned. The hectic gameplay summarises the amount of coding needed to bring the dream to life. 
 
