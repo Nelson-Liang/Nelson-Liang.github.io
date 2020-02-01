@@ -10,7 +10,7 @@ labels:
   - Teamwork
 ---
 
-
+##Intro
 This project is a video game that was created by my team in ICS 111. I choose to share this project because I was proud of the final result. The game achieved everything we wanted while presented everything we learned. The hectic gameplay summarises the amount of coding needed to bring the dream to life. 
 
 ## Gameplay
