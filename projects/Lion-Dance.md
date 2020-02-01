@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Project3.PNG
-title: Space Zone Game
+title: Lion Dance
 date: 2020-01-31
 labels:
   - Software Engineering
