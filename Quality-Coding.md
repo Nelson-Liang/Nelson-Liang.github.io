@@ -21,7 +21,7 @@ Coding writing can be like a formal dinner; although you are free to create your
 ## Experienced the mess
 Some experience I have that justifies the importance of following some source of a coding standard is on group projects. The final project for ICS 111, Introduction to Computer Science I, was a group assignment where you team up in groups of 3 to 4 students and create a game or something that involves coding. I had an easy time work with my teammates, coming up with ideas and each of us providing the code necessary to complete the task, but one problem that stands out was organization. At the beginning of the assignment, we work individually to work on the major function we knew we wanted in the game. When the time came to implement all our work into one script, I realize I had a hard time identifying the functions because they were not labeled and some lines lack quality such as indents and space between words and numbers. In the end, we were able to organize and label all of the functions and classes. I learn that it is important to label your work so that others can recognize the purpose of the code.
 <p align='center'>  
-<img src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" width='500'/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" width='200'/>
 </p>
 
 ## First impressions of ESLint with Intellij
