@@ -12,7 +12,7 @@ labels:
 summary: Reflection on Coding Standards.
 ---
 <p align='center'>  
-<img src='https://miro.medium.com/max/1366/1*LyZcwuLWv2FArOumCxobpA.png' width='500'/>
+<img src='' width='500'/>
 </p>
 
 Coding writing can be like a formal dinner; although you are free to create your courses for tonight and eat it however you like, there are some guidelines you needed to follow in order to look presentable around others. I agree that it is important to have a software engineering technique that improves the quality of a person’s work. Have strong knowledge in coding etiquette is just as important as creating the codes. A software engineer needs to find a balance between producing results and formatting a clean workspace. You want to build an elegant script for anyone to comfortable read and easily understand. When a programmer lacks the importance of a coding standard, it can be quite difficult for an audience to quickly acknowledge the function of the code. If a coding script is not neat, it can cause problems for a team to implement the code or in a classroom where students will have a hard time understanding. This is why coding standards should be considered when writing a script.
