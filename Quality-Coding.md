@@ -12,7 +12,7 @@ labels:
 summary: Reflection on Coding Standards.
 ---
 <p align='center'>  
-<img src="https://Nelson-Liang.github.io/images/Coding standard.jfif" width='400'/>
+<img src="https://Nelson-Liang.github.io/images/CodingStandard.jfif" width='500'/>
 </p>
 
 ## Why is coding standard important? 
