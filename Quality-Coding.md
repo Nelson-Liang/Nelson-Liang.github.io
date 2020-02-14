@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Coding Standards
+title: Quality Coding
 date: 2020-02-13
 labels:
   - Software Engineering
