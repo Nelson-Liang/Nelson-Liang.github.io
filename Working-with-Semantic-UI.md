@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Working with Sematic UI
+title: Working with Semantic UI
 date: 2020-02-27
 labels:
   - Software Engineering
