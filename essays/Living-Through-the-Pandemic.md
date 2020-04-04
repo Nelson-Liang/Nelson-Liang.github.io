@@ -10,6 +10,9 @@ labels:
 summary: Impact of Covid-19 on my life.
 ---
 
+<p align='center'>  
+<img src="https://image.shutterstock.com/image-illustration/contagious-coronavirus-outbreak-coronaviruses-influenza-600w-1626085978.jpg" width='300'/>
+</p>
 
 ## Introduction
 Over the past few months, Covid-19 terrorize the heart of many countries and it’s airborne nature allows the virus to move like wildfire. This caused nations to take drastic measures to try to stop the spread, but the damage have already been done. Isolation was the key to stopping the spread but at the same time, stopped the flow of civilization around the world. Many lives were affected as many businesses were forced to remain close, leaving the economy in ruin. Traveling industries struggle through the pandemic as restriction and ban placed to stop any movement. 
