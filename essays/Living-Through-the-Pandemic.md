@@ -21,7 +21,7 @@ Over the past few months, Covid-19 terrorize the heart of many countries and it�
 The pandemic didn’t affect me as much because of my daily routine. I spend the majority of my day in front of my computer, meaning I may never feel the sunshine for that day unless I have a purpose to step outdoors. Although I enjoy staying indoors, I prefer to leave the house at least once or twice a week. I am still working during these times of social isolation, but I don’t work as much as I used to because of attendance limitations in the office. Both my mom and I have some form of income, however, it is lower than what we usually receive. My community seems to not be affected yet as there are still a few people wandering the blocks and words haven’t broken out about the virus in the area. I have learned that I took the freedom of outdoor exploration for granted and I realize that when I found myself sleeping a lot and dying from boredom.
 
 <p align='center'>  
-<img src="https://Nelson-Liang.github.io/images/eLearning.PNG" width='500'/>
+<img src="https://Nelson-Liang.github.io/images/eLearning.PNG" width='450'/>
 </p>
 
 ## Converting to Online
