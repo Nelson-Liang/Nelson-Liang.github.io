@@ -11,7 +11,7 @@ summary: Impact of Covid-19 on my life.
 ---
 
 <p align='center'>  
-<img src="https://image.shutterstock.com/image-illustration/contagious-coronavirus-outbreak-coronaviruses-influenza-600w-1626085978.jpg" width='500'/>
+<img src="https://github.com/Nelson-Liang/Nelson-Liang.github.io/blob/master/images/covid-19.PNG" width='500'/>
 </p>
 
 ## Introduction
