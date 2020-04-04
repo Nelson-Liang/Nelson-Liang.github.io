@@ -14,7 +14,6 @@ summary: Reflect on UI Frameworks.
 <p align='center'>  
 <img src='https://c4.wallpaperflare.com/wallpaper/488/549/69/technology-internet-business-scheme-wallpaper-preview.jpg' width='500'/>
 </p>
-
 ## Investment in Semantic UI
 Semantic UI is an effective list of methods that can benefit a developer’s website. The list offers many functions that can improve the precision and quality of your work and grants a way to develop projects faster than normal codes. The learning process can be frustrating, but it is well worth the effort put into it. A programmer using Semantic UI may find the value of it due to the number of possibilities that can be accomplished with a simple UI command. Raw HTML and CSS are limited to its built-in features on web design and without specialize command to implement a certain appearance on your site, it can be chaotic in your coding script and difficult to meet the image the creator is looking for. 
 
