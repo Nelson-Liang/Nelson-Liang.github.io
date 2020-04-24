@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Code Responsibly 
-date: 2020-04-03
+date: 2020-04-23
 labels:
   - Software Engineering
   - Ethics
