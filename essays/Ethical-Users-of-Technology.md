@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Code Responsibly 
+title: Ethical Users of Technology 
 date: 2020-04-23
 labels:
   - Software Engineering
