@@ -30,3 +30,5 @@ Facebook is a good example that shows a conflict between rights and wrongs. For 
 
 ## Personal Opinion
 Ethics is important with people that have the potential to create a big change to society such as any engineer professions. I believe that software engineers must consider taking precautions when designing and constructing their work and be responsible if anything goes wrong and inflict harm on an individual or the public. Students must be reminded of the ethical principals that serve as a guideline because they can be easily influenced by someone or their new-found capabilities. As long as the practices of ethic’s behaviors remain alive for software engineers as well as other professions, it will help steer humanity in the right direction towards a healthy and positive evolution.  
+
+
