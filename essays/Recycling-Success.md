@@ -11,7 +11,7 @@ summary: Reflection on Design Patterns for Software Engineers.
 ---
 
 <p align='center'>  
-<img src="https://Nelson-Liang.github.io/images/Computer Judgement.jpg" width='500'/>
+<img src="https://blogexpress.org/wp-content/uploads/2018/01/584140-636292325866267219-16x9.jpg" width='400'/>
 </p>
 
 ## Recycling Success
