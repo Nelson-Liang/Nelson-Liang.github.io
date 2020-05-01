@@ -6,7 +6,7 @@ date: 2020-04-30
 labels:
   - Software Engineering
   - Design Pattern
-  - Website Design
+  - Web Design
 summary: Reflection on Design Patterns for Software Engineers.
 ---
 
