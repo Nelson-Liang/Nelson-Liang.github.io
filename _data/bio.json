@@ -60,6 +60,7 @@
       "level": "",
       "keywords": [
         "Windows",
+        "Mac OS",
         "Intellij",
         "Meteor",
       ]
@@ -74,10 +75,11 @@
       "endDate": "Present",
       "gpa": "2.7",
       "courses": [
-        "ICS 111",
-        "ICS 211",
-        "ICS 141",
-        "ICS 241",
+        "ICS 111 Introduction to Computer Science I",
+        "ICS 211 Introduction to Computer Science II",
+        "ICS 141 Discrete Mathematics for Computer Science I",
+        "ICS 241 Discrete Mathematics for Computer Science II",
+        "ICS 314 Software Engineering I",
       ]
     }
   ],
@@ -88,9 +90,12 @@
       "website": "",
       "startDate": "09/14/2018",
       "endDate": "Present",
-      "summary": "Maintence, troubleshoot, and upgrade librarie's computers",
+      "summary": "Install, troubleshoot and maintain hardware, software, networking, and peripherals for computers running in a university's library.",
       "highlights": [
-       
+        "Assist in installing networking and other data cables, computer equipment and peripherals, and troubleshooting network environment consisting of hubs, switches, & servers using different network tools.",
+        "Assist in inventory and record keeping of all department computers and related equipment.",
+        "Assist in moving equipment and reinstalling units to operating standard.",
+        "Assist in management of department network and servers.",
       ]
     },
   ],
