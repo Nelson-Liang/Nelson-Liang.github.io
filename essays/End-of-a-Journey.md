@@ -15,9 +15,9 @@ summary: Reflection on Software Engineers Course.
 </p>
 
 ## Course Overview
-This course provided a unique experience to the fundamental of becoming a software engineer. The course exercises many skills that touch every aspect that is needed in the workforce. From time-pressure coding to having an ethical goal and maintain a professional appearance in the codes, I have learned a lot of factors that I can look at and improve to increase my chances to make a good impression in the field. The course mainly focuses on web application development, but many of the materials learned can be carried on to other projects.      
+This course provided a unique experience to the fundamental of becoming a software engineer. The course exercises many skills that touch every aspect that is needed in the workforce. Not only did the course groundwork for coding in Javascript, but it also teaches the mechanics of setting up and operating a coding system that can benefit in a work environment. From time-pressure coding to having an ethical goal and maintain a professional appearance in the codes, I have learned a lot of factors that I can look at and improve to increase my chances to make a good impression in the field. The course mainly focuses on web application development, but many of the materials learned can be carried on to other projects.      
 <p align='center'>  
-<img src="https://www.shallibegin.com/wp-content/uploads/2017/11/compsoft.jpg" width='500'/>
+<img src="https://www.shallibegin.com/wp-content/uploads/2017/11/compsoft.jpg" width='430'/>
 </p>
 
 ## Professionalism
