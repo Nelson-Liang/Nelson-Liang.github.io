@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "Nelson Liang",
         "url": "http://linkedin.com/in/nelson-liang-42967a19b"
       },
     ]
@@ -68,19 +68,23 @@
       "studyType": "B.S.",
       "startDate": "2017-09-21",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "2.7",
       "courses": [
+        "ICS 111",
+        "ICS 211",
+        "ICS 141",
+        "ICS 241",
       ]
     }
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
+      "company": "University of Hawaii",
+      "position": "Desktop Network Service",
       "website": "",
-      "startDate": "",
+      "startDate": "09/14/2018",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Maintence, troubleshoot, and upgrade librarie's computers",
       "highlights": [
        
       ]
