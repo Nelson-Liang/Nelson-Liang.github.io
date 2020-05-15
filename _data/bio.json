@@ -49,9 +49,7 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Java",
-        "Javascript",
-        "Semantic ui",
+      
       ]
     },
     {
@@ -120,6 +118,7 @@
     {
       "name": "Wayne Agunat",
       "reference": "He is my Boss"
+      "contact": "wagunat@hawaii.edu"
     }
   ]
 }
