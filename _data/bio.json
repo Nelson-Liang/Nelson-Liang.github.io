@@ -52,6 +52,16 @@
         "Java",
         "Javascript",
         "Semantic ui",
+        "React",
+      ]
+    },
+    \{
+      "name": "Tools/OS",
+      "level": "",
+      "keywords": [
+        "Windows",
+        "Intellij",
+        "Meteor",
       ]
     },
   ],
@@ -96,7 +106,6 @@
     {
       "name": "Wayne Agunat",
       "reference": "wagunat@hawaii.edu"
-      "contact": "wagunat@hawaii.edu"
     }
   ]
 }
