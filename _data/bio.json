@@ -51,6 +51,7 @@
       "keywords": [
         "Java",
         "Javascript",
+        "Semantic ui",
       ]
     },
     {
@@ -101,32 +102,6 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    }
-  ],
   "awards": [
     {
       "title": "B+ Scholarship",
@@ -143,8 +118,9 @@
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "Wayne Agunat",
+      "reference": "He is my Boss"
+      "contact": "wagunat@hawaii.edu"
     }
   ]
 }
