@@ -49,16 +49,11 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-      
+        "Java",
+        "Javascript",
+        "Semantic ui",
       ]
     },
-    {
-      "name": "",
-      "level": "",
-      "keywords": [
-       
-      ]
-    }
   ],
   "education": [
     {
@@ -88,17 +83,6 @@
        
       ]
     },
-    {
-       "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-       
-      ]
-    }
   ],
   "awards": [
     {
@@ -107,12 +91,6 @@
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
   ],
   "references": [
     {
