@@ -11,8 +11,8 @@ summary: My reflection on why it is important to ask smart question.
 <p align='center'>  
 <img src='https://www.tanveernaseer.com/wp-content/uploads/2019/12/Asking-smarter-questions.jpg' width='500'/>
 </p>
-## When Asking a Question
 
+## When Asking Questions
   Questions can open the gates to knowledge, but asking the right ones can be quite challenging. Smart questions can be effective in truly understanding problems that can not be explained by people who don’t practice complex thinking. This is important to ask smart questions to challenge yourself to become a better problem solver. To be a smart software engineer, you must apply what you know to your question to construct a more in-depth analysis of the situation. Showing that you are willing to improve your problem-solving skills can help you attract the audience you are desperately looking for. According to Raymond, the hacking community tends to look for complex questions that test their abilities and knowledge in the field. Creating a smart question can be beneficial to finding a solution to a problem while furthering your education in engineering any software.
 
 ## Smart Questions
