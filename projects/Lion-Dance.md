@@ -8,7 +8,7 @@ labels:
   - Lion Dance
   - Leader
   - Teamwork
-summary: The art of lion dance and what I learn from it.
+summary: The art of lion dance and what I learned.
 ---
 
 <p align='center'>  
